@@ -35,12 +35,4 @@ Clone repo này và mở bằng Unity (khuyên dùng Unity 2021 trở lên).
 
 ---
 
-## 💡 Ý tưởng mở rộng
-
-- Cho phép chỉnh tay bản đồ (vẽ thêm tường).
-- Tối ưu hoá thuật toán tìm đường.
-- Thêm animation khi NPC di chuyển.
-
----
-
-🛠️ Dành cho học tập, thực hành và làm nền tảng cho các game mô phỏng logic hoặc chiến thuật!
+🛠️ Project có thể dành cho học tập, thực hành và làm nền tảng cho các game mô phỏng logic hoặc chiến thuật!
