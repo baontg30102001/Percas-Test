@@ -9,11 +9,11 @@ public class BoardManager : MonoBehaviour
     [SerializeField]
     private Transform _boardParent;
     [SerializeField] 
-    private float wallSpawnChance;
-    [SerializeField] 
     private Transform _safeAreaTopLeft;
     [SerializeField] 
     private Transform _safeAreaBottomRight;
+    [SerializeField] 
+    private float wallSpawnChance;
     
     private int _width = 10;
     private int _height = 10;

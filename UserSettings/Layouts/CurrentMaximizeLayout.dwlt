@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 73507
+  controlID: 74096
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 73471
+  controlID: 74684
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -177,7 +177,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 73450
+  controlID: 74039
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -246,7 +246,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: aa0bffff5c0effff9240ffffea6affffae6bffff1686ffff7286ffffda86ffffa08cffffa28cffff7491ffff8692ffffeea7ffff56a9ffff36adffff3aafffff4aafffffe8fafffff4ffffff
+      m_ExpandedIDs: aa0bffff5c0effff9240ffffea6affffae6bffff1686ffff7286ffffda86ffffa08cffffa28cffff7491ffff8692ffffeea7ffff56a9ffff36adffff3aafffffe8fafffff4ffffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1098,7 +1098,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ConsoleWindow
+  m_Name: ProjectBrowser
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -1107,15 +1107,15 @@ MonoBehaviour:
     y: 636
     width: 2008
     height: 297
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 13}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
   - {fileID: 13}
   - {fileID: 14}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1139,7 +1139,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 715
-    width: 2130
+    width: 2007
     height: 271
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1163,7 +1163,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Helpers
+    - Assets/Scripts/Logics
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1173,15 +1173,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/Helpers
+  - Assets/Scripts/Logics
   m_LastFoldersGridSize: -1
   m_LastProjectPath: F:\Project\Percas-Test
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1cd40000
-    m_LastClickedID: 54300
+    m_SelectedIDs: 9ab20000
+    m_LastClickedID: 45722
     m_ExpandedIDs: 00000000fead0000d8af000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1237,8 +1237,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 3aafffff
-    m_LastClickedInstanceID: -20678
+    m_SelectedInstanceIDs: 36adffff
+    m_LastClickedInstanceID: -21194
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300002a450100d8da0000ecc20000de8c020056c71c005878210076a22300dab20000
     m_RenameOverlay:
@@ -1343,7 +1343,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -209320
+  m_LastSelectedObjectID: -21194
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52

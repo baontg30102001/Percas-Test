@@ -7,9 +7,7 @@ public class AStar
     private static readonly Vector2Int[] Directions =
     {
         new Vector2Int(1, 0), new Vector2Int(-1, 0),
-        new Vector2Int(0, 1), new Vector2Int(0, -1),
-        // new Vector2Int(1, 1), new Vector2Int(1, -1),
-        // new Vector2Int(-1, 1), new Vector2Int(-1, -1),
+        new Vector2Int(0, 1), new Vector2Int(0, -1)
     };
 
     public static List<Vector2Int> FindPath(Board board, Vector2Int start, Vector2Int end)
