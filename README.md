@@ -1,4 +1,4 @@
-# 🔍 Simple 2D Pathfinding in Unity
+# 🔍 Percas Test - Simple 2D Pathfinding in Unity
 
 Đây là một project Unity đơn giản mô phỏng cơ chế tìm đường trong mê cung 2D dựa trên **Grid**. NPC sẽ tìm đường đi đến đích thông qua thuật toán duyệt theo **4 hướng (trên, dưới, trái, phải)**, tránh các ô là tường.
 
