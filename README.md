@@ -7,7 +7,7 @@
 ## 🚀 Cách sử dụng
 
 ### 1. Clone và mở bằng Unity
-Clone repo này và mở bằng Unity (khuyên dùng Unity 2021 trở lên).
+Clone repo này và mở bằng Unity (Project hiện đang dùng bản 6000.0.25f1).
 
 ### 2. Cấu hình và tạo bản đồ
 - Trong **Hierarchy**, chọn GameObject `BoardManager`.
